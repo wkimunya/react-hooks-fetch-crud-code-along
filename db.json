@@ -4,25 +4,13 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
-      "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
       "name": "Lettuce",
       "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 5,
@@ -35,6 +23,102 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 17
+    },
+    {
+      "name": "lettuce",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "name": "Cookies",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 19
+    },
+    {
+      "name": "Cookies",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 20
+    },
+    {
+      "name": "Cookies",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 21
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 22
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 23
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 24
     }
   ]
 }
